@@ -13,6 +13,6 @@
 
 ## Start
 
-```sh
-* npm start
+```js
+npm start
 ```
