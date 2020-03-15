@@ -10,3 +10,4 @@ client.once("ready", () => {
 client.on("message", commandHandler);
 
 client.login(process.env.BOT_TOKEN);
+// create a .env in root folder with "BOT_TOKEN="
